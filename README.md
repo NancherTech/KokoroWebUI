@@ -32,10 +32,9 @@ Follow these steps to set up the project locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+    git clone https://github.com/NancherTech/KokoroWebUI.git
     cd YOUR_REPOSITORY_NAME
     ```
-    *(Replace `YOUR_USERNAME/YOUR_REPOSITORY_NAME` with your actual GitHub details)*
 
 2.  **Create and activate a Python virtual environment (Recommended):**
     ```bash
