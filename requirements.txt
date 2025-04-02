@@ -1,31 +1,27 @@
 langchain
 langchain-huggingface
 
-kokoro>=0.9.2 
+kokoro
 soundfile
 # Core Python Libraries
-numpy>=1.21.0
-soundfile>=0.10.3
+numpy
+soundfile
 
 # Machine Learning and Deep Learning
-torch>=1.10.0
-transformers>=4.30.0
+torch
+transformers
 
 # Web and UI
-streamlit>=1.22.0
-
+streamlit
 # Audio Processing (optional but recommended)
-librosa>=0.9.1
-
+librosa
 # Additional useful libraries
-scipy>=1.7.0
-matplotlib>=3.5.0
-
+scipy
+matplotlib
 # Optional: For better GPU support (if applicable)
-# torchaudio>=0.10.0
+# torchaudio
 
 # Type hints and additional utilities
-typing-extensions>=4.5.0
-
+typing-extensions
 # Potential additional dependencies for model handling
-# huggingface-hub>=0.15.0
+# huggingface-hub
