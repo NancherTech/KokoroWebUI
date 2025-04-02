@@ -33,7 +33,7 @@ Follow these steps to set up the project locally:
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/NancherTech/KokoroWebUI.git
-    cd YOUR_REPOSITORY_NAME
+    cd KokoroWebUI
     ```
 
 2.  **Create and activate a Python virtual environment (Recommended):**
